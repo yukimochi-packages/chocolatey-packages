@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Do not remove this test for UTF-8: if ??? doesn?t appear as greek uppercase omega letter enclosed in quotation marks, you should use an editor that supports UTF-8, not this one. -->
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
+    <id>electrum-mona.install</id>
+    <title>Electrum-mona (Install)</title>
+    <version>3.0.5</version>
+    <authors>wakiyamap</authors>
+    <owners>YUKIMOCHI</owners>
+    <summary>Electrum-mona; Monacoin thin client.</summary>
+    <projectUrl>https://electrum-mona.org/</projectUrl>
+    <tags>admin cryptocurrency wallet monacoin</tags>
+    <copyright>2017 Electrum-mona</copyright>
+    <licenseUrl>https://github.com/wakiyamap/electrum-mona/blob/master/LICENCE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/wakiyamap/electrum-mona/3.0.5/icons/electrum.png</iconUrl>
+    <projectSourceUrl>https://github.com/wakiyamap/electrum-mona</projectSourceUrl>
+    <packageSourceUrl>https://github.com/yukimochi-packages/chocolatey-packages/tree/master/nupkg/electrum-mona.install</packageSourceUrl>
+    <description><![CDATA[Electrum-mona - Lightweight Monacoin client]]></description>
+    <releaseNotes>
+[Software Changelog](https://github.com/wakiyamap/electrum-mona/blob/3.0.5/RELEASE-NOTES)
+[Package Changelog](https://github.com/yukimochi-packages/chocolatey-packages/tree/master/nupkg/electrum-mona.install/Changelog.md)
+    </releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
