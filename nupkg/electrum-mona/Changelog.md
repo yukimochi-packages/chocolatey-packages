@@ -1,5 +1,7 @@
 # Electrum-mona Changelog
 
+## Version: 3.1.1 (2018-03-14)
+
 ## Version: 3.1.0 (2018-03-09)
 
 ## Version: 3.0.6 (2018-02-07)
