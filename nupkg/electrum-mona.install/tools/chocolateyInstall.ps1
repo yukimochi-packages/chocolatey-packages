@@ -1,8 +1,8 @@
 ﻿$packageName = 'electrum-mona.install'
 $installerType = 'exe'
 $silentArgs = '/S'
-$url = 'https://github.com/wakiyamap/electrum-mona/releases/download/3.1.1/electrum-mona-3.1.1-setup.exe'
-$checksum = 'b8ddd3de528d8b9b4ac00a4b7bbf31682dced187d01e683f93cc017b223c7079'
+$url = 'https://github.com/wakiyamap/electrum-mona/releases/download/3.1.2/electrum-mona-3.1.2-setup.exe'
+$checksum = '27f2140247eb663f9e02a0172bee72c0eb5342a1eebb8eb5e16f7f7859bd958f'
 $checksumType = 'sha256'
 $validExitCodes = @(0)
  
