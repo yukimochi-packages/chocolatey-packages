@@ -1,5 +1,7 @@
 # Electrum-mona Changelog
 
+## Version: 3.2.3 (2018-09-07)
+
 ## Version: 3.1.3.1 (2018-04-22)
 
 ## Version: 3.1.3 (2018-04-20)
@@ -13,4 +15,4 @@
 ## Version: 3.0.6 (2018-02-07)
 
 ## Version: 3.0.5 (2018-02-03)
-- Initial implemented of the electrum-mona.install chocolatey package
+- Initial implemented of the electrum-mona chocolatey package
