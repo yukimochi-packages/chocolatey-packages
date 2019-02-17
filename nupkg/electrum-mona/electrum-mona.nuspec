@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>electrum-mona</id>
     <title>Electrum-mona</title>
-    <version>3.2.3.1</version>
+    <version>3.3.4</version>
     <authors>wakiyamap</authors>
     <owners>YUKIMOCHI</owners>
     <summary>Electrum-mona; Monacoin thin client.</summary>
@@ -14,16 +14,16 @@
     <copyright>2017 Electrum-mona</copyright>
     <licenseUrl>https://github.com/wakiyamap/electrum-mona/blob/master/LICENCE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <iconUrl>https://cdn.rawgit.com/wakiyamap/electrum-mona/3.2.3.1/icons/electrum.png</iconUrl>
+    <iconUrl>https://cdn.rawgit.com/wakiyamap/electrum-mona/3.3.4/icons/electrum.png</iconUrl>
     <projectSourceUrl>https://github.com/wakiyamap/electrum-mona</projectSourceUrl>
     <packageSourceUrl>https://github.com/yukimochi-packages/chocolatey-packages/tree/master/nupkg/electrum-mona</packageSourceUrl>
     <description><![CDATA[Electrum-mona - Lightweight Monacoin client]]></description>
     <releaseNotes>
-[Software Changelog](https://github.com/wakiyamap/electrum-mona/blob/3.2.3.1/RELEASE-NOTES)
+[Software Changelog](https://github.com/wakiyamap/electrum-mona/blob/3.3.4/RELEASE-NOTES)
 [Package Changelog](https://github.com/yukimochi-packages/chocolatey-packages/blob/master/nupkg/electrum-mona/Changelog.md)
     </releaseNotes>
     <dependencies>
-      <dependency id="electrum-mona.install" version="[3.2.3.1]" />
+      <dependency id="electrum-mona.install" version="[3.3.4]" />
     </dependencies>
   </metadata>
   <files>
