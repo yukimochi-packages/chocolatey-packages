@@ -1,5 +1,7 @@
 # Electrum-mona (Install) Changelog
 
+## Version: 4.1.4 (2021-10-07)
+
 ## Version: 4.0.2.1 (2020-10-29)
 
 ## Version: 3.3.8 (2020-2-1)
